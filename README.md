@@ -30,4 +30,5 @@ You may also see any lint errors in the console.
    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="40" height="40"/>
 
    <img src="https://files.raycast.com/nwt9ncojkvwmjfkaada8upafvpnu" width="40" height="40"/> 
+   <h1>Secound</h1>
 </div>
